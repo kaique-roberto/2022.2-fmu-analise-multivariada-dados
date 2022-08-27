@@ -1,0 +1,15 @@
+About Dataset
+Context
+Housing prices per meters squared in several districts in São Paulo - Brasil from 2018 to 2019.
+
+Content
+Bairro: District;
+preco: Price per meters squared in R$ (Reais, Brazil's currency);
+Data: Date, the day was inserted artificially to comply with the Date format in R language.
+Dormitorios: Number of bedrooms.
+
+Acknowledgements
+The data was adapted by me having Secovi-SP as the source (http://www.secovi.com.br/pesquisas-e-indices/estudos/estudo-de-precos-de-imoveis-de-terceiros).
+
+Source
+https://www.kaggle.com/datasets/brunofracasso/housing-prices-in-so-paulobrasil

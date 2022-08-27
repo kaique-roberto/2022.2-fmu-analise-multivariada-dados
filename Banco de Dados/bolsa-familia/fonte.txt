@@ -1,0 +1,22 @@
+About Dataset
+
+Overview
+Social programs like Bolsa Familia were responsible for nearly 60 percent of the reduction in the number of people living in extreme poverty during the boom decade, according to Emmanuel Skoufias, lead economist in poverty and equity global practice at the World Bank.
+
+However, while job losses have been pushing more families toward the program, Bolsa Familia coverage has been declining. An Associated Press review of Bolsa Familia data found that coverage declined 4 percentage points between May 2016, when Temer became president, and May of this year.
+
+Bolsa Familia Recipients Over Time
+
+About this Data
+
+The data covers the time period from January, 2011 through May, 2017
+The data is aggregated into five regions of the country:
+North (States include Acre, Amazonas, Amapá, Pará, Rondônia, Roraima, Tocantins)
+Northeast (States include Alagoas, Bahia, Ceará, Maranhão, Paraíba, Pernambuco, Piauí, Rio Grande do Norte, Sergipe)
+Mid-West (States include Distrito Federal, Goiás, Mato Grosso do Sul, Mato Grosso)
+Southeast (States include Espírito Santo, Minas Gerais, Rio de Janeiro, São Paulo)
+South (States include Paraná, Rio Grande do Sul, Santa Catarina)
+
+Source
+https://www.kaggle.com/datasets/alroger/bolsa-familia
+

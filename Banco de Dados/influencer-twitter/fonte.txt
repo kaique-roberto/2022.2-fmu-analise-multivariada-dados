@@ -1,0 +1,17 @@
+About Dataset
+Context
+Lista de 1000 usuários do Twitter com maior número de seguidores e avaliados quanto ao perfil ideológico (esquerda-direita) de acordo com a Folha de São Paulo.
+
+Content
+A reportagem contabilizou como "seguidor" apenas quem segue ao menos três influenciadores e tuitou ao menos cem vezes. Dados foram coletados entre 26 de março e 2 de maio de 2019
+
+Extraído da reportagem https://temas.folha.uol.com.br/gps-ideologico/reta-ideologica/entenda-como-o-estudo-foi-feito.shtml
+
+Acknowledgements
+Inspirado em https://nyuscholars.nyu.edu/en/publications/tweeting-from-left-to-right-is-online-political-communication-mor
+
+Inspiration
+Provavelmente seria oportuno revalidar a classificação quanto ao alinhamento político já que é do interesse da fonte (Folha de São Paulo, mídia) aparentar isenção.
+
+Source
+https://www.kaggle.com/datasets/fmendes/influenciadores-do-twitter-e-perfil-ideolgico
