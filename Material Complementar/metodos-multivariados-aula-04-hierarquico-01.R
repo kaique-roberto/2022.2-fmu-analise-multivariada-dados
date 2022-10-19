@@ -62,6 +62,7 @@ sapply(m, ac)
 clust <- agnes(df, method = "ward")
 
 #plota o dendrograma
+??pltree
 pltree(clust, cex = 0.6, hang = -1, main = "Dendrograma") 
 
 #calcula a gap statistic para cada numero de cluster (k.max deve ser menor q o numero de variaveis)
